@@ -1,0 +1,44 @@
+body {
+   background-color: skyblue;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+.JokeGenerator{
+    box-shadow: 10px  10px 0px 0px brown;
+    border-radius: 50px;
+    height: auto;
+    background-color: bisque;
+}
+#ddd{
+    border: 1px solid black;
+   border-radius: 50px;
+    width: 90%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+
+}
+#qbt{
+    text-align: left;
+    height: 80px;
+    display: block;
+
+}
+.container {
+    text-align: center;
+    width: 90%;
+}
+
+button {
+    border-radius: 50px;
+    background: transparent;
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
